@@ -180,7 +180,7 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "adcff00ee4fcfb9d156efb9530a69a8b",
+	"md5": "fd1dde0438ab3aa855ac9c24a0ef6fb8",
 	"name": "C:\\Users\\pc\\Desktop\\helmet\\Helmet.mdl",
 	"seq_groups": "1",
 	"sequences": [
@@ -570,7 +570,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 242264,
+	"size": 325348,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -685,8 +685,75 @@
 			"parent": 18
 		}
 	],
-	"skins": 0,
-	"t_model": false,
-	"textures": [],
+	"skins": 1,
+	"t_model": true,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 247,
+			"name": "DM_Base.bmp",
+			"width": 156
+		}, 
+		{
+			"flags": 0,
+			"height": 94,
+			"name": "bodyarmorfnt.bmp",
+			"width": 120
+		}, 
+		{
+			"flags": 0,
+			"height": 33,
+			"name": "armortop.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 127,
+			"name": "pantfront.bmp",
+			"width": 72
+		}, 
+		{
+			"flags": 0,
+			"height": 14,
+			"name": "pack.bmp",
+			"width": 44
+		}, 
+		{
+			"flags": 0,
+			"height": 121,
+			"name": "newarm.bmp",
+			"width": 76
+		}, 
+		{
+			"flags": 0,
+			"height": 33,
+			"name": "bootfront.bmp",
+			"width": 16
+		}, 
+		{
+			"flags": 0,
+			"height": 21,
+			"name": "bootside.bmp",
+			"width": 20
+		}, 
+		{
+			"flags": 0,
+			"height": 29,
+			"name": "handgrip.bmp",
+			"width": 24
+		}, 
+		{
+			"flags": 0,
+			"height": 43,
+			"name": "Handback.bmp",
+			"width": 28
+		}, 
+		{
+			"flags": 0,
+			"height": 20,
+			"name": "handfront.bmp",
+			"width": 20
+		}
+	],
 	"version": 10
 }
