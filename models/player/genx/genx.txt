@@ -1,0 +1,12 @@
+GenX skin by Michael Patrick Clark, aka Sigma-X. Sigmax01@aol.com
+
+Place files in the valve\models\player\genx found in the Half Life folder.  The folder needs 
+to be named the same as the model, or it won't work right.
+
+This is my second skin for Half Life, and is a modified Scientist, wearing a dark grey suit, a tie, dark pants, and has flaming red hair.  He also has the scar and glasses that the ASS clan skin has.
+
+Note-Both theam colors need to be the same, or else he looks funny.  Also, ignore the in game pic, its screwed up and I haven't got the time to do another one.  Not like anyone plays HL since TFC came out anyways, right?
+
+ASS Clan:
+www.fortunecity.com/underworld/darkforces/777/
+       We put the arse into arsenal.
