@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 15,
@@ -70,6 +71,7 @@
 			"type": 8
 		}
 	],
+	"date": 1739844965,
 	"events": [
 		{
 			"event": 5004,
@@ -207,7 +209,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bea93cab151636fc8318061a533cd28c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player/mario/mario.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

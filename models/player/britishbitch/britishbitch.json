@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1530511497,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "54bb9de368b77432a74516ed74097ed0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\WINNT\\Profiles\\willem.000\\Desktop\\3d moddeling\\Thatcher\\briti9",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

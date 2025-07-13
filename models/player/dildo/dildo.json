@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 12,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1356077038,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3cd1d509bcef668d93e828b9dac0e87d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dildo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

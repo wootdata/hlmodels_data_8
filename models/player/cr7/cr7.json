@@ -108,6 +108,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -142,6 +143,7 @@
 			"type": 8
 		}
 	],
+	"date": 1678893794,
 	"events": [
 		{
 			"event": 2001,
@@ -251,7 +253,11 @@
 	],
 	"id": 1414743113,
 	"md5": "65a1a1c89190170ed2ddbe1ee08218ec",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "E:\\Escritorio\\MidoriyaGym\\Cr7.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

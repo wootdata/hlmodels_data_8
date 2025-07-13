@@ -33,6 +33,7 @@
 			"name": "barney_ref"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1619723534,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d1ad7909b9fe79e4d07c1b3588380ada",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ZPS_Male_Survivor.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

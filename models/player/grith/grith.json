@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 955574856,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b24e834ed1f6fd83cfd2a18e84a94ccf",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player/Grith/working/Grith.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

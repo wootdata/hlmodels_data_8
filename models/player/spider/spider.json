@@ -12,7 +12,9 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
+	"date": 1630174122,
 	"events": [
 		{
 			"event": 2001,
@@ -122,7 +124,11 @@
 	],
 	"id": 1414743113,
 	"md5": "047aa81f6868f5e13e8988e8cc9abd0b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Black_Widow.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

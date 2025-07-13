@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 12,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1330551284,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8af35d8dd9c2cd649c5dd2a1a6139633",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "banana.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1669007060,
 	"events": [
 		{
 			"event": 2001,
@@ -220,7 +222,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e9ecbabd6d631f715fb2d4943982467c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\PC Pirateada\\Documents\\mi editacion\\gordon\\Alex.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
