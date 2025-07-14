@@ -175,6 +175,7 @@
 	"md5": "60c0593b8994fd7324aa1e6a36ddeecb",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "zombie.mdl",
 	"preview": true,
 	"readme": false,

@@ -175,6 +175,7 @@
 	"md5": "b24e834ed1f6fd83cfd2a18e84a94ccf",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Grith/working/Grith.mdl",
 	"preview": true,
 	"readme": false,

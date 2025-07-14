@@ -211,6 +211,7 @@
 	"md5": "bea93cab151636fc8318061a533cd28c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/mario/mario.mdl",
 	"preview": true,
 	"readme": false,

@@ -175,6 +175,7 @@
 	"md5": "3efdbe493b959698c83648b287ac457d",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/batman/batman.mdl",
 	"preview": true,
 	"readme": false,

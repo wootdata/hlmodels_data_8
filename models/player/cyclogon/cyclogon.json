@@ -180,6 +180,7 @@
 	"md5": "5ca07d93ba8baa3a8780e65f0dec5f1c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Zombie/zombie.mdl",
 	"preview": false,
 	"readme": false,
