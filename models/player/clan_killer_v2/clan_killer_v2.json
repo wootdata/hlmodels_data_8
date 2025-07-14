@@ -183,7 +183,7 @@
 	"modid": 2,
 	"name": "e:\\valve/models/player/clan_killer/clan_killer.mdl",
 	"preview": true,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
