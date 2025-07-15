@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : usmc-officer
+Source Model Hash : e192469b0b786194d9c0fe16d5a79bd3
+Source Model Date : 1259163590 (2009/11/25)
+
+Ported Model Name : usmc-officer_v1sc
+Ported Model Hash : 5206450feac99d76928cd167c51733f9
+Ported Model Date : 1752492483 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pollopios
+Source Model Hash : 1ac1f3fc1cf1e852dffa62876eb251ea
+Source Model Date : 1701749497 (2023/12/04)
+
+Ported Model Name : pollopios_v1sc
+Ported Model Hash : da283f8f66d637a8f30b41f703af4fe8
+Ported Model Date : 1752492162 (2025/07/14)

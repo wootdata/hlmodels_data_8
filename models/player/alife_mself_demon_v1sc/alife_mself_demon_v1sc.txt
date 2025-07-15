@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : afterlife_mself_demon
+Source Model Hash : 0d9c223471ea359b418303975bbbe810
+Source Model Date : 1483813336 (2017/01/07)
+
+Ported Model Name : alife_mself_demon_v1sc
+Ported Model Hash : cb3c53b2983ead4e47c32a07400d01de
+Ported Model Date : 1752491336 (2025/07/14)

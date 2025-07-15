@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pyramidhead
+Source Model Hash : 0d3fa9e8fa3e4a56ded9959b6e07281e
+Source Model Date : 1375643568 (2013/08/04)
+
+Ported Model Name : pyramidhead_v1sc
+Ported Model Hash : ca61425d7a9c1cf281f1f4e86b892b8d
+Ported Model Date : 1752492174 (2025/07/14)

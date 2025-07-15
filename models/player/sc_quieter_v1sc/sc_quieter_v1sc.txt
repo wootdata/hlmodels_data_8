@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sc_quieter
+Source Model Hash : c6842125f9b82c2fbc7925f6bd466f03
+Source Model Date : 1520815068 (2018/03/11)
+
+Ported Model Name : sc_quieter_v1sc
+Ported Model Hash : 01d59545e00d00908de80047e29d2e58
+Ported Model Date : 1752492255 (2025/07/14)

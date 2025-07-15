@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kancolle_atago_n_v2
+Source Model Hash : 39020a81bbc39aa9ae1d7d8a82196f47
+Source Model Date : 1581985947 (2020/02/17)
+
+Ported Model Name : kancolle_atago_n_v2sc
+Ported Model Hash : e18f1d41d57b60d8eaff04902d4c0a0d
+Ported Model Date : 1752491870 (2025/07/14)

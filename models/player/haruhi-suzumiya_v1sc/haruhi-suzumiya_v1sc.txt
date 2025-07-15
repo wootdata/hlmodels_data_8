@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : haruhi-suzumiya
+Source Model Hash : 286f87fa38b3db3fa5c3c9ac3e568c3a
+Source Model Date : 1693832905 (2023/09/04)
+
+Ported Model Name : haruhi-suzumiya_v1sc
+Ported Model Hash : 4f37b172f37fc1b809268cd7ec104ddf
+Ported Model Date : 1752491769 (2025/07/14)

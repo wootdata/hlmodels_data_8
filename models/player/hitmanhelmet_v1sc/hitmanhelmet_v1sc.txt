@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hitmanhelmet
+Source Model Hash : c8b63a5b9a503eb8ef4c603c69b9cb3b
+Source Model Date : 1269098010 (2010/03/20)
+
+Ported Model Name : hitmanhelmet_v1sc
+Ported Model Hash : 1c9b7be36f4785deb6c427f796064169
+Ported Model Date : 1752491797 (2025/07/14)

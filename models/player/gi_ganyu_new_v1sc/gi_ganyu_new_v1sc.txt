@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gi_ganyu_new
+Source Model Hash : f6948bc73c2f02a5bc93844690b4fc5e
+Source Model Date : 1662732190 (2022/09/09)
+
+Ported Model Name : gi_ganyu_new_v1sc
+Ported Model Hash : c61dd8ef116720419f1008bc3cb44b44
+Ported Model Date : 1752491713 (2025/07/14)

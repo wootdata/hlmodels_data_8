@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fp_bigote2017a
+Source Model Hash : 0e88f978f79a4f4096e95e72d9f27253
+Source Model Date : 1497500130 (2017/06/14)
+
+Ported Model Name : fp_bigote2017a_v1sc
+Ported Model Hash : 23b572436b7c0f7dec44185c9fee5309
+Ported Model Date : 1752491658 (2025/07/14)

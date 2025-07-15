@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dmc4_ns
+Source Model Hash : a79ddb9a9b5ac56f331799cdb52e03bd
+Source Model Date : 1445581046 (2015/10/22)
+
+Ported Model Name : dmc4_ns_v1sc
+Ported Model Hash : df0d7e43bbfa041dd7d851e6f6afc180
+Ported Model Date : 1752491603 (2025/07/14)

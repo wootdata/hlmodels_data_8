@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rer_rachel
+Source Model Hash : af5d5e8f69ae719b838e9e22362d603b
+Source Model Date : 1483716540 (2017/01/06)
+
+Ported Model Name : rer_rachel_v1sc
+Ported Model Hash : 3780f2beca1a811f400ec3c017e34689
+Ported Model Date : 1752492200 (2025/07/14)

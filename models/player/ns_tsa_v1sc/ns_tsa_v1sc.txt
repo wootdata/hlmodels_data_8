@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ns_tsa
+Source Model Hash : e3e6a309b04989aa7cd60dfeb561595a
+Source Model Date : 1265654248 (2010/02/08)
+
+Ported Model Name : ns_tsa_v1sc
+Ported Model Hash : dc3bd9fc18d86dc29bb8d1fbc40d4867
+Ported Model Date : 1752492104 (2025/07/14)

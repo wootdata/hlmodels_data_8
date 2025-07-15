@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : afterlife_brobo_fix
+Source Model Hash : 9b496339d3ed2ae44cf7f054d1be5c14
+Source Model Date : 1483813336 (2017/01/07)
+
+Ported Model Name : alife_brobo_fix_v1sc
+Ported Model Hash : 14c6dc45c6980b5f9ef8670fd72db4c6
+Ported Model Date : 1752491334 (2025/07/14)

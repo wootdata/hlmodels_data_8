@@ -1,0 +1,26 @@
+FPSC Customization Labs Clan models
+
+FPSC2
+
+model: Blazeeer & Yang
+textures: H.I.T. & Napoleon
+animations: A.I. & Napoleon
+
+This is is a clan model. It belong to FPSC Labs Clan. And It is recommanded to be used only by FPSC Clan members.
+
+Napoleon
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fpsc2
+Source Model Hash : b5c0960e619919204f191ac190cf125e
+Source Model Date : 1263754718 (2010/01/17)
+
+Ported Model Name : fpsc2_v1sc
+Ported Model Hash : 8208d1141666f93bf20fe358f3f65297
+Ported Model Date : 1752491657 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : armyman_shotgun
+Source Model Hash : ddfc2e3c0346bfd0ae8636fd45909d7f
+Source Model Date : 1577391622 (2019/12/26)
+
+Ported Model Name : armyman_shotgun_v1sc
+Ported Model Hash : 7616a1ebc2bba62ce8a394d3c8313f0d
+Ported Model Date : 1752491377 (2025/07/14)

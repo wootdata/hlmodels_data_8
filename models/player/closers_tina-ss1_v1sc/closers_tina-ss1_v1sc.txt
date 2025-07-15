@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : closers_tina-ss1
+Source Model Hash : f46da4cc10fa22cc998771dc12761883
+Source Model Date : 1558654326 (2019/05/23)
+
+Ported Model Name : closers_tina-ss1_v1sc
+Ported Model Hash : 59ef7bb8ca5128264704812f7605964f
+Ported Model Date : 1752491483 (2025/07/14)

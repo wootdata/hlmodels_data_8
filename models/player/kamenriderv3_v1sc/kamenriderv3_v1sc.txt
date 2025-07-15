@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kamenriderv3
+Source Model Hash : ea70b9b1809d70440faa3f74155fc140
+Source Model Date : 1510107399 (2017/11/07)
+
+Ported Model Name : kamenriderv3_v1sc
+Ported Model Hash : d40f5d48d6e3b16068e0fa6534c32dcc
+Ported Model Date : 1752491869 (2025/07/14)

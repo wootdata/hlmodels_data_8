@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : oneil
+Source Model Hash : 5ae7a4adf05e5bddbeca024a24309264
+Source Model Date : 1264756576 (2010/01/29)
+
+Ported Model Name : oneil_v1sc
+Ported Model Hash : b710975ea09d53332b95d71c6796d0ff
+Ported Model Date : 1752492116 (2025/07/14)

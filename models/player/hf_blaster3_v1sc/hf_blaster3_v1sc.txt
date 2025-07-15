@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hf_blaster3
+Source Model Hash : 35fe7881ddd3af940935c0e7ef50f756
+Source Model Date : 1230317800 (2008/12/26)
+
+Ported Model Name : hf_blaster3_v1sc
+Ported Model Hash : f588da4e926d81ab98aa292373f95421
+Ported Model Date : 1752491791 (2025/07/14)

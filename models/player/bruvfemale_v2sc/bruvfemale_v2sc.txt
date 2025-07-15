@@ -1,0 +1,33 @@
+Skinner: SlimReapeR
+Skin Name: bruvfemale
+Model Used: Trinityrage by AUSTIN
+
+This model should only be used by members of the BRUV clan. Have this skin installed
+to see them play! Thsi version of the skin is for the ladies
+of the clan
+
+Installation of Plugin
+
+Create a folder called Bruvfemale in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bruvfemale_v2
+Source Model Hash : f4b0233b86d453c1517c01963c93fa51
+Source Model Date : 1582973574 (2020/02/29)
+
+Ported Model Name : bruvfemale_v2sc
+Ported Model Hash : 29a4bb212834765f0e3870c1586b533b
+Ported Model Date : 1752491449 (2025/07/14)

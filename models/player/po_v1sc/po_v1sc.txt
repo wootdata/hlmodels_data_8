@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : po
+Source Model Hash : b9242d95abd3bf8685a4f367df58991c
+Source Model Date : 1497706810 (2017/06/17)
+
+Ported Model Name : po_v1sc
+Ported Model Hash : a663b10737a2369383073c224c909c44
+Ported Model Date : 1752492161 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hdn_neptunev-c3_v2
+Source Model Hash : 9abc0874f9f05141d7147f1749c592b2
+Source Model Date : 1582181063 (2020/02/19)
+
+Ported Model Name : hdn_neptunev-c3_v2sc
+Ported Model Hash : fbf3da0d2a5ee7473b3864560a6d09fc
+Ported Model Date : 1752491777 (2025/07/14)

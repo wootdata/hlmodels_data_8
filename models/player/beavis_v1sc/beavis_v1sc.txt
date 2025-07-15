@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : beavis
+Source Model Hash : 949f823cc054e9e4ffe4889e84190a3c
+Source Model Date : 1465827724 (2016/06/13)
+
+Ported Model Name : beavis_v1sc
+Ported Model Hash : 07c346327e83d32e1486ec3e445dd0c2
+Ported Model Date : 1752491423 (2025/07/14)

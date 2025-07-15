@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : potdf
+Source Model Hash : e868fc7f6f0c0c2e528b35cf88644fc7
+Source Model Date : 1590989620 (2020/05/31)
+
+Ported Model Name : potdf_v1sc
+Ported Model Hash : a6370d8d1dc849e51f208e563241dd7c
+Ported Model Date : 1752492164 (2025/07/14)

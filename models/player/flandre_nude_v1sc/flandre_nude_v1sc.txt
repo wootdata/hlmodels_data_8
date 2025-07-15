@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : flandre_nude
+Source Model Hash : 40b815fd134d2295fcb6a2c1f3e91017
+Source Model Date : 1319635482 (2011/10/26)
+
+Ported Model Name : flandre_nude_v1sc
+Ported Model Hash : bc4754e66fe6cb8b6c943cc7fa00c261
+Ported Model Date : 1752491653 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : uk_swordsm_agony
+Source Model Hash : 3f4d7d570607c6309cedad7214398dfb
+Source Model Date : 1730377686 (2024/10/31)
+
+Ported Model Name : uk_swordsm_agony_v1sc
+Ported Model Hash : cac3872e98457b33af4f208a549407ef
+Ported Model Date : 1752492475 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : soldier_mpf_v2
+Source Model Hash : 55ed3199b00dc17d300edd5013c8cc74
+Source Model Date : 1584001937 (2020/03/12)
+
+Ported Model Name : soldier_mpf_v2sc
+Ported Model Hash : 42b2eed7a65af70fbb9fa713e2f22a85
+Ported Model Date : 1752492291 (2025/07/14)

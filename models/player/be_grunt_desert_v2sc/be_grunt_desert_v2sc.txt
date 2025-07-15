@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : be_grunt_desert_v2
+Source Model Hash : f56e14f87208cfad9742b10e7dfbdbb3
+Source Model Date : 1540588188 (2018/10/26)
+
+Ported Model Name : be_grunt_desert_v2sc
+Ported Model Hash : 35f58145c711d1d4a74cd1ebaf66677f
+Ported Model Date : 1752491425 (2025/07/14)

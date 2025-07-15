@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sticky
+Source Model Hash : a74afa5b0ce805123de9a80e6e40542b
+Source Model Date : 1269963687 (2010/03/30)
+
+Ported Model Name : sticky_v1sc
+Ported Model Hash : bf5697db81b18cfcf966a7f4d5b29af4
+Ported Model Date : 1752492345 (2025/07/14)

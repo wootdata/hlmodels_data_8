@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cryomarinealpha
+Source Model Hash : 2ad28e88355a921f726cdf92432d9b4f
+Source Model Date : 1569147544 (2019/09/22)
+
+Ported Model Name : cryomarinealpha_v1sc
+Ported Model Hash : 7fc9bcd3bb62b3c04256098f7abb7a7d
+Ported Model Date : 1752491539 (2025/07/14)

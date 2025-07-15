@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gimp_v2
+Source Model Hash : f77d1d99bba029c025479e610399c24f
+Source Model Date : 1583879911 (2020/03/10)
+
+Ported Model Name : gimp_v2sc
+Ported Model Hash : 8dfb9af33e95cf4eb1aa83e915b6b03e
+Ported Model Date : 1752491701 (2025/07/14)

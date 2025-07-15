@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : uk_streetcleaner
+Source Model Hash : 04dde8213bac88e8e639da859557c7e6
+Source Model Date : 1730986228 (2024/11/07)
+
+Ported Model Name : uk_streetcleaner_v1sc
+Ported Model Hash : 1991baae96294f441838961994c5121f
+Ported Model Date : 1752492474 (2025/07/14)

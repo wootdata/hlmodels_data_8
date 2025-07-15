@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : s8n_fuse
+Source Model Hash : 860f0ce4266e8c74ce6ba8934bc6e975
+Source Model Date : 1591137194 (2020/06/02)
+
+Ported Model Name : s8n_fuse_v1sc
+Ported Model Hash : 9872b55138a7314cde139ee35b5260ce
+Ported Model Date : 1752492231 (2025/07/14)

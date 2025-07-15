@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : micromush
+Source Model Hash : 2a1ff4591daa9a8ecd5e8bc7db812a92
+Source Model Date : 1458021277 (2016/03/14)
+
+Ported Model Name : micromush_v1sc
+Ported Model Hash : 421f9f286bad777b35e6c76f666bfff9
+Ported Model Date : 1752492015 (2025/07/14)

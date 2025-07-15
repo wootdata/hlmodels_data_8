@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gundam_rx-78
+Source Model Hash : 38a4d885ff9a80237538041155b74862
+Source Model Date : 1629541816 (2021/08/21)
+
+Ported Model Name : gundam_rx-78_v1sc
+Ported Model Hash : d2b96ed8f27404c62685eab6f337323c
+Ported Model Date : 1752491756 (2025/07/14)

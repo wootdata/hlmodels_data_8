@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tron2011b
+Source Model Hash : f79381db3241259f95793bdf7447045f
+Source Model Date : 1455995461 (2016/02/20)
+
+Ported Model Name : tron2011b_v1sc
+Ported Model Hash : a04e8457bc7da5eb3d16764436a76001
+Ported Model Date : 1752492459 (2025/07/14)

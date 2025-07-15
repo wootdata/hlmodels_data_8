@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lsd_doubleface_kanji
+Source Model Hash : e98813228a753a17426d8e40bc822382
+Source Model Date : 1653554406 (2022/05/26)
+
+Ported Model Name : lsd_2face_kanji_v1sc
+Ported Model Hash : e97b83da899e60ea9cc789b6a2818bd7
+Ported Model Date : 1752491966 (2025/07/14)

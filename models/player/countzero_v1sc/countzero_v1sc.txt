@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : countzero
+Source Model Hash : 75df762fb715aa2da500def5d4e13585
+Source Model Date : 1268404199 (2010/03/12)
+
+Ported Model Name : countzero_v1sc
+Ported Model Hash : 2881be1fd8fee6502ff0e2b951634f8a
+Ported Model Date : 1752491532 (2025/07/14)

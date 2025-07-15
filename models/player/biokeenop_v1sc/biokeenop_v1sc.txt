@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : biokeenop
+Source Model Hash : 22eb1a88673759ea7d2bb9b24a41beb3
+Source Model Date : 1470779149 (2016/08/09)
+
+Ported Model Name : biokeenop_v1sc
+Ported Model Hash : 8c8f2a350726394ce223837eb2ca4afe
+Ported Model Date : 1752491431 (2025/07/14)

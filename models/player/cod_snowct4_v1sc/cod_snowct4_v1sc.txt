@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cod_snowct4
+Source Model Hash : 0c646a10ace7ec1f15a83e7d4d5d03fc
+Source Model Date : 1477955096 (2016/10/31)
+
+Ported Model Name : cod_snowct4_v1sc
+Ported Model Hash : 4dffe7c142a0125c1c72de164f565769
+Ported Model Date : 1752491501 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sprunki_simon
+Source Model Hash : e3c5146f8be89c79432d979b1f7e6d76
+Source Model Date : 1746291667 (2025/05/03)
+
+Ported Model Name : sprunki_simon_v1sc
+Ported Model Hash : d4a70897333da3d7712666cf60cf7b1b
+Ported Model Date : 1752492313 (2025/07/14)

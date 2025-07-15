@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : altyumi
+Source Model Hash : f6c9313d9afd261c44f3ee882a752b03
+Source Model Date : 1654720312 (2022/06/08)
+
+Ported Model Name : altyumi_v1sc
+Ported Model Hash : a6595a51fd1c5540f4831f0ee43c7274
+Ported Model Date : 1752491355 (2025/07/14)

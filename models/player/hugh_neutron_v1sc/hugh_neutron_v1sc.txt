@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hugh_neutron
+Source Model Hash : 1e9ef4ec3dec7e6a5f1047bb198c8fd4
+Source Model Date : 1535524208 (2018/08/28)
+
+Ported Model Name : hugh_neutron_v1sc
+Ported Model Hash : d5198d750b662ecc8f2d982191bd6350
+Ported Model Date : 1752491836 (2025/07/14)

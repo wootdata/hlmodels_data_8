@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : shadow
+Source Model Hash : 55940859caab4b1804291e769310cd84
+Source Model Date : 1269852107 (2010/03/29)
+
+Ported Model Name : shadow_v1sc
+Ported Model Hash : 14c568e2c91014267495c8f8c8f62370
+Ported Model Date : 1752492264 (2025/07/14)

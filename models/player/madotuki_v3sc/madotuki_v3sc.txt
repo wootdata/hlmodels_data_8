@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : madotuki_v3
+Source Model Hash : d21a788268b352d9fda0f676501bc39c
+Source Model Date : 1591246478 (2020/06/03)
+
+Ported Model Name : madotuki_v3sc
+Ported Model Hash : 0ae21f7b51f6c473584ff4bc06f2d2b9
+Ported Model Date : 1752491979 (2025/07/14)

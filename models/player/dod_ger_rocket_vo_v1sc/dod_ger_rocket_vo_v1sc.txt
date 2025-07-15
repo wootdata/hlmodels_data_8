@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dod_german_rocket_vo
+Source Model Hash : 2424d7b7496813de43a0306b32b2d050
+Source Model Date : 1702154668 (2023/12/09)
+
+Ported Model Name : dod_ger_rocket_vo_v1sc
+Ported Model Hash : 5850ef6cf450199f7001e51f3f2878f0
+Ported Model Date : 1752491615 (2025/07/14)

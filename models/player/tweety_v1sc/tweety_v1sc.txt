@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tweety
+Source Model Hash : 0c2d396cb375b348713bf885238d9fe6
+Source Model Date : 1267716698 (2010/03/04)
+
+Ported Model Name : tweety_v1sc
+Ported Model Hash : d08b0ac6e6d9a4192d9aea8807c0985d
+Ported Model Date : 1752492464 (2025/07/14)

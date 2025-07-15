@@ -1,0 +1,32 @@
+U.S.C.M. Steel Division 1.1
+
+The model consist of parts made or edited by:
+
+Raven_TK
+SixShooter
+-X-
+-=SPASTiC CHiLD=-
+X-Convict
+NS Team
+Delarosa
+SOF2 Team
+Dillinja
+Nottingham
+(unknown skinhacker)
+
+1.1 Update - Minor Bone Attachment Bugs have been fixed.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : soldier2
+Source Model Hash : fa0bd57b1d871c35856598d393811958
+Source Model Date : 1269930814 (2010/03/29)
+
+Ported Model Name : soldier2_v1sc
+Ported Model Hash : d3cdb7f74260c2dda4042556af20d3dc
+Ported Model Date : 1752492289 (2025/07/14)

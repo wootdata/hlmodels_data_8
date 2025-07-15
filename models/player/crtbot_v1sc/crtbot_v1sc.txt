@@ -1,0 +1,33 @@
+//Thanks for downloading my CRTbot playermodel!
+Please leave a like or comment in whatever website you downloaded it on.
+
+//It's my first playermodel and it took 3 days to do it originally, after some time i did some rework to make it look more uh, detailed? yeah... yeah...
+
+//Installation
+
+1. Place the models folder into your \Sven Co-op\svencoop_addon\ Folder.
+2. Run the game and choose the playermodel from the multiplayer settings menu.
+3. Enjoy!
+
+//Special thanks to Hons.Elle in the Sven Co-op Developers Discord for helping me rig the model!
+
+//Contact info
+My Discord: MilkForever#0962
+My email (recommended): kardolivero10@gmail.com
+
+//You can take, republish or modify this playermodel freely, as long as you aren't using it for comercial use and stuff like that!
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : crtbot
+Source Model Hash : 9e62f200c1c0196ea054c9b7906602dc
+Source Model Date : 1621656876 (2021/05/21)
+
+Ported Model Name : crtbot_v1sc
+Ported Model Hash : a620107a4c1074a6bb7debac8d562d97
+Ported Model Date : 1752491538 (2025/07/14)

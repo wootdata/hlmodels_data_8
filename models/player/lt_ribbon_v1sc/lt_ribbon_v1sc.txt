@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lt_ribbon
+Source Model Hash : a3b08d4ff54269dbcffde8c3e8b3115e
+Source Model Date : 1622850624 (2021/06/04)
+
+Ported Model Name : lt_ribbon_v1sc
+Ported Model Hash : 272db1267db0a7625a40587aea1515c4
+Ported Model Date : 1752491969 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ss_rimururu
+Source Model Hash : f7f6a24b709c38d8876422891ccf005d
+Source Model Date : 1638301322 (2021/11/30)
+
+Ported Model Name : ss_rimururu_v1sc
+Ported Model Hash : eb8e298cda4423143ad7a7d778c93365
+Ported Model Date : 1752492320 (2025/07/14)

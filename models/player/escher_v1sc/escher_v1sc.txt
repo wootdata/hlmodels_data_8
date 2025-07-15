@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : escher
+Source Model Hash : 217282988ad2aa7f8cf0e2d697d940bb
+Source Model Date : 1264853570 (2010/01/30)
+
+Ported Model Name : escher_v1sc
+Ported Model Hash : 1c23776c173514aff31fe0a97adb312b
+Ported Model Date : 1752491636 (2025/07/14)

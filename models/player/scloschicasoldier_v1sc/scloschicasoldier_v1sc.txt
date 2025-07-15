@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : scloschicasoldier
+Source Model Hash : fcb4babb5f1fa6d8e582565076806cb0
+Source Model Date : 1538687181 (2018/10/04)
+
+Ported Model Name : scloschicasoldier_v1sc
+Ported Model Hash : e9e439215f03ef4bf93ba38c2a32f65b
+Ported Model Date : 1752492248 (2025/07/14)

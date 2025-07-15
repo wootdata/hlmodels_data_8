@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : motoko_visor
+Source Model Hash : c3bc77acd9509905b3dcb1cf0aaa4edd
+Source Model Date : 1562951180 (2019/07/12)
+
+Ported Model Name : motoko_visor_v1sc
+Ported Model Hash : 0987435fe35889a6b3cec878c5402fe1
+Ported Model Date : 1752492043 (2025/07/14)

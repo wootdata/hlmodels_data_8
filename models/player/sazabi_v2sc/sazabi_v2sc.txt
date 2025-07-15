@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sazabi_v2
+Source Model Hash : 9d5cb07b82635125695625923aa8ed08
+Source Model Date : 1591143952 (2020/06/02)
+
+Ported Model Name : sazabi_v2sc
+Ported Model Hash : b1872559923795f838be79d4f3f5adfa
+Ported Model Date : 1752492240 (2025/07/14)

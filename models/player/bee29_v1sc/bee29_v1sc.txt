@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bee29
+Source Model Hash : c0b52cf7b10485d9fe3dcc3f99cd32ca
+Source Model Date : 1590821056 (2020/05/29)
+
+Ported Model Name : bee29_v1sc
+Ported Model Hash : 8d85991996e5a1476f8cd5de3c70d631
+Ported Model Date : 1752491423 (2025/07/14)

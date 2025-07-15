@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : buratino
+Source Model Hash : 5b96a1f21b59b89634c3d0c4635cf4b4
+Source Model Date : 1445578094 (2015/10/22)
+
+Ported Model Name : buratino_v1sc
+Ported Model Hash : fe88b2cd539d8bea8d4e62b45d8a1663
+Ported Model Date : 1752491455 (2025/07/14)

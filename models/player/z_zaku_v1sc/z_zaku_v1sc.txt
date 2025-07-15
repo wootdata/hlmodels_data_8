@@ -1,0 +1,31 @@
+CS-skin            For "cs1.3¡Bcs1.4¡Bcs1.5"
+
+Edit by: czf52017
+czf52017's HP: http://home.kimo.com.tw/czf52017/
+czf52017's E-mail: czf52017@yahoo.com.tw
+
+How to install this skin?
+------------------------
+Just extract the file into the next folder: ".../cstrike/models/player/(player name)" 
+(player name) =>choose which you want to replace
+rename this model as the original "player" file
+Maybe it's a good idea to make a copy of your original "player" model first.
+
+Country:Taiwan 
+
+Soft: MilkShape3D1.6.6   Photoshop7.1   3dsmax5.0
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : z_zaku
+Source Model Hash : 32f3e41b76203b3064b6e11c1b80675e
+Source Model Date : 1264536056 (2010/01/26)
+
+Ported Model Name : z_zaku_v1sc
+Ported Model Hash : 0d85f99d3bf6f53b6c0626edf99257f7
+Ported Model Date : 1752492538 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : daisys3c
+Source Model Hash : fd632a0c617cf191c721fd3d05d572c8
+Source Model Date : 1681836662 (2023/04/18)
+
+Ported Model Name : daisys3c_v1sc
+Ported Model Hash : c12c32cf3f6208137db1b5a20ac9f02b
+Ported Model Date : 1752491576 (2025/07/14)

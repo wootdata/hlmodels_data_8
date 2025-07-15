@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aresaka_v2
+Source Model Hash : 30e97cf1e7670e9f6c89d7b12b6c9591
+Source Model Date : 1582884912 (2020/02/28)
+
+Ported Model Name : aresaka_v2sc
+Ported Model Hash : 3f15968dc54ff3eed59891c62b074a87
+Ported Model Date : 1752491366 (2025/07/14)

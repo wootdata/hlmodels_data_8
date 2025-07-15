@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : punkgirlz_v2
+Source Model Hash : 6496a30c7dc8d3a1c234055348bb0f77
+Source Model Date : 1591332812 (2020/06/04)
+
+Ported Model Name : punkgirlz_v2sc
+Ported Model Hash : 759da1e77b4c04da56b176ed0b965cde
+Ported Model Date : 1752492173 (2025/07/14)

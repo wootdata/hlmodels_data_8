@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hlhd_sargef
+Source Model Hash : 7d3433497eb6df9561622d21453def6c
+Source Model Date : 1650753031 (2022/04/23)
+
+Ported Model Name : hlhd_sargef_v1sc
+Ported Model Hash : cd78452d6e22999c4983e6f038d28a32
+Ported Model Date : 1752491805 (2025/07/14)

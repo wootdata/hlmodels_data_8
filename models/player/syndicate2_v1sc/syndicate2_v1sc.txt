@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : syndicate2
+Source Model Hash : 3a189201f48687cfa52ecd9802ba26ce
+Source Model Date : 1237171490 (2009/03/15)
+
+Ported Model Name : syndicate2_v1sc
+Ported Model Hash : 4658eec5ee5bef1abfffe5a3155dc6eb
+Ported Model Date : 1752492355 (2025/07/14)

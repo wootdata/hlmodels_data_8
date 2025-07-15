@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : riko_nude
+Source Model Hash : d94cd258c31a0bb1dd8e7889eb54e588
+Source Model Date : 1523333286 (2018/04/09)
+
+Ported Model Name : riko_nude_v1sc
+Ported Model Hash : 6e70ba8689eb7dbad624e113b8442086
+Ported Model Date : 1752492217 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nge_rei
+Source Model Hash : be1f205b00aba36682000a4f2fcfcb97
+Source Model Date : 1469188949 (2016/07/22)
+
+Ported Model Name : nge_rei_v1sc
+Ported Model Hash : c4778768e278b304e298959934197061
+Ported Model Date : 1752492093 (2025/07/14)

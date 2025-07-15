@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nato-stealth
+Source Model Hash : 3c5a4f9a6f57c14593eb1bdc07f9e862
+Source Model Date : 1265566781 (2010/02/07)
+
+Ported Model Name : nato-stealth_v1sc
+Ported Model Hash : 53881a315aef376b62303acedc7d2fac
+Ported Model Date : 1752492073 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tinkywinky_st
+Source Model Hash : 942740c1ac8a7a6bd32a82002d52b608
+Source Model Date : 1623112283 (2021/06/07)
+
+Ported Model Name : tinkywinky_st_v1sc
+Ported Model Hash : b8385bbdd48f9b143aec9e4b6caf4643
+Ported Model Date : 1752492423 (2025/07/14)

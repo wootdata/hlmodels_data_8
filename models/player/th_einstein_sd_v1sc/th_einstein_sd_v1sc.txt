@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : th_einstein_sd
+Source Model Hash : 0e96a81c146c1c0691bdbb7793c77d51
+Source Model Date : 1543540334 (2018/11/29)
+
+Ported Model Name : th_einstein_sd_v1sc
+Ported Model Hash : e54a2a453cd3158543428014973e2a1d
+Ported Model Date : 1752492417 (2025/07/14)

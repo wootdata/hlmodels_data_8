@@ -1,0 +1,24 @@
+Extract to ...Half-Life\valve\models\player\elvis
+
+Perhaps a little flashy for stealth, 
+but who's going to shoot the King?
+
+Please let me know if you like it.
+
+Stevo
+riffraff@austin.rr.com
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : elvis
+Source Model Hash : d4946fd12373b1aba5362909a6940cb8
+Source Model Date : 1264851835 (2010/01/30)
+
+Ported Model Name : elvis_v1sc
+Ported Model Hash : 09c66b0e72e61f7467c5ba7ba53d7c39
+Ported Model Date : 1752491633 (2025/07/14)

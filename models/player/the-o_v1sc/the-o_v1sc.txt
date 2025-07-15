@@ -1,0 +1,18 @@
+THE-O
+
+Model :  FantasyFT
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : the-o
+Source Model Hash : 6a8f4587a5e452f79c82ceac3ff3de1b
+Source Model Date : 1491737851 (2017/04/09)
+
+Ported Model Name : the-o_v1sc
+Ported Model Hash : eb1af200c3a738cb64993d21ef6c9733
+Ported Model Date : 1752492410 (2025/07/14)

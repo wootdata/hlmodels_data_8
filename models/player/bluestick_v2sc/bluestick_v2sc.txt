@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bluestick_v2
+Source Model Hash : 40e748f61a91b8014d3d893cbfc4f38e
+Source Model Date : 1583787850 (2020/03/09)
+
+Ported Model Name : bluestick_v2sc
+Ported Model Hash : e0799ee7c402c0b95718db8d5c2b57a9
+Ported Model Date : 1752491438 (2025/07/14)

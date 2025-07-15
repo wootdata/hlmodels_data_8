@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : doom_phobos
+Source Model Hash : 4c22c3f257a46f4d77177160b45833a1
+Source Model Date : 1462708420 (2016/05/08)
+
+Ported Model Name : doom_phobos_v1sc
+Ported Model Hash : c14f45560e9858b12388bfc560e93688
+Ported Model Date : 1752491619 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : esf_vegeta
+Source Model Hash : 36c6e572d558261b39cc547ed5f74219
+Source Model Date : 1427038309 (2015/03/22)
+
+Ported Model Name : esf_vegeta_v1sc
+Ported Model Hash : f06bfcf732597881548127425f3faa79
+Ported Model Date : 1752491638 (2025/07/14)

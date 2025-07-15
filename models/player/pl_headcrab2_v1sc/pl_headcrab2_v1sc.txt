@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pl_headcrab2
+Source Model Hash : 60d9dabdff0cd4f1543cc36828597c87
+Source Model Date : 1467108233 (2016/06/28)
+
+Ported Model Name : pl_headcrab2_v1sc
+Ported Model Hash : 5c04eaf9405d3715caf82cb8c400d9d7
+Ported Model Date : 1752492161 (2025/07/14)

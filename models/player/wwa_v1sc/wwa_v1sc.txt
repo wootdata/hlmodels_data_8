@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wwa
+Source Model Hash : 6ca05c568874b0fd8c612d9a7b9b01c5
+Source Model Date : 1583316374 (2020/03/04)
+
+Ported Model Name : wwa_v1sc
+Ported Model Hash : 98db153a10b06b3e2a4f86eef594722f
+Ported Model Date : 1752492514 (2025/07/14)

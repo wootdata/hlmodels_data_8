@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : counterx2
+Source Model Hash : 733bfa544a31c77d8e2bba490197bebe
+Source Model Date : 1425654538 (2015/03/06)
+
+Ported Model Name : counterx2_v1sc
+Ported Model Hash : f7b241397a218f5bfe2f31a6b04286c2
+Ported Model Date : 1752491532 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nakhtira
+Source Model Hash : 10948d4d8e851e6115655a52ce2c7556
+Source Model Date : 1465827724 (2016/06/13)
+
+Ported Model Name : nakhtira_v1sc
+Ported Model Hash : 778e36a8316e66205b0c73dd4a3e89c8
+Ported Model Date : 1752492066 (2025/07/14)

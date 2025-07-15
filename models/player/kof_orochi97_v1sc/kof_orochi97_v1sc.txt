@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kof_orochi97
+Source Model Hash : 60f736fb6fa818ae42563d6398e4501b
+Source Model Date : 1643828427 (2022/02/02)
+
+Ported Model Name : kof_orochi97_v1sc
+Ported Model Hash : 556f3703158453acb4ba1bc067d80fa8
+Ported Model Date : 1752491907 (2025/07/14)

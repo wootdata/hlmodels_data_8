@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nsmbw_iggy
+Source Model Hash : bf62f0458b8e4be7c870e94faaf492fe
+Source Model Date : 1493712630 (2017/05/02)
+
+Ported Model Name : nsmbw_iggy_v1sc
+Ported Model Hash : 7267cdb3f0eb28d785d7c0307140cd5b
+Ported Model Date : 1752492103 (2025/07/14)

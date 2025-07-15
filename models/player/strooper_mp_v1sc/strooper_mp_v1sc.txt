@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : strooper_mp
+Source Model Hash : 0c941d7b0b448972ffddc7f047b79642
+Source Model Date : 1201335868 (2008/01/26)
+
+Ported Model Name : strooper_mp_v1sc
+Ported Model Hash : ba6fac44052737a566ae43880e077e24
+Ported Model Date : 1752492349 (2025/07/14)

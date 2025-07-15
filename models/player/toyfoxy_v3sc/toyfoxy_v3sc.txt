@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : toyfoxy_v3
+Source Model Hash : 0a1cbc188303b76d1be767884480a7b5
+Source Model Date : 1652308480 (2022/05/11)
+
+Ported Model Name : toyfoxy_v3sc
+Ported Model Hash : 41b3ba767cc6386666471b56fa29868e
+Ported Model Date : 1752492455 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ny_angel
+Source Model Hash : e001c322286007d1c7924f6c413b1d86
+Source Model Date : 1590902101 (2020/05/30)
+
+Ported Model Name : ny_angel_v1sc
+Ported Model Hash : 1894ff2d5651468f3dbb78cea90132db
+Ported Model Date : 1752492111 (2025/07/14)

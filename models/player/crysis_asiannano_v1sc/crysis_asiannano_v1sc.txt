@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : crysis_asiannano
+Source Model Hash : e3e674e6d85109861e79cd4ebaaf9397
+Source Model Date : 1263980850 (2010/01/20)
+
+Ported Model Name : crysis_asiannano_v1sc
+Ported Model Hash : d7609247dd8c02991d8ac4ed1e360f35
+Ported Model Date : 1752491540 (2025/07/14)

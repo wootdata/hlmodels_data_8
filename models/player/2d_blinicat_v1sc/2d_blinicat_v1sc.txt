@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_blinicat
+Source Model Hash : a7429906e1a7ca90b702854f38e3f980
+Source Model Date : 1693579560 (2023/09/01)
+
+Ported Model Name : 2d_blinicat_v1sc
+Ported Model Hash : 7c2b01a48967a1cd335846194ace0110
+Ported Model Date : 1752491305 (2025/07/14)

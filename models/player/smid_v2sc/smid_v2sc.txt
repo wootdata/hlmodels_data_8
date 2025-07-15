@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : smid_v2
+Source Model Hash : df2982b41e8d6141073269ba2bf9022d
+Source Model Date : 1587645892 (2020/04/23)
+
+Ported Model Name : smid_v2sc
+Ported Model Hash : bc7d00d157ecc772e4e9ec3d9ebd5896
+Ported Model Date : 1752492283 (2025/07/14)

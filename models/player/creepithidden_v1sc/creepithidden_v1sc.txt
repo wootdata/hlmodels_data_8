@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : creepithidden
+Source Model Hash : 1c8f52098082297316a047338e99c646
+Source Model Date : 1269226164 (2010/03/21)
+
+Ported Model Name : creepithidden_v1sc
+Ported Model Hash : 8a04b87ff47f6e9a8a7d6d21accf1de0
+Ported Model Date : 1752491537 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : redsci2
+Source Model Hash : d36cd44d11b2461e45620eda568b8e8c
+Source Model Date : 1529517629 (2018/06/20)
+
+Ported Model Name : redsci2_v1sc
+Ported Model Hash : 242bcb037235f93f2a84c589c6a4b182
+Ported Model Date : 1752492196 (2025/07/14)

@@ -1,0 +1,27 @@
+###THIS FILE HAS BEEN LEECHED FROM THE HIT FORUMS###
+
+Whaddya Get:
+The Vampire Master from Underworld Bloodline Mod..
+now with SC3 Player animations.
+*This is one Evil chick who is deserting to SvenCoop.
+
+Original Author: 
+Some dude on the UW Bloodline Team I spose..
+
+Send all complaints as usual to LaggedRabbit.
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vamp_master
+Source Model Hash : 0ea2f8a1ed68543b1e2dde8765e2c747
+Source Model Date : 1262883386 (2010/01/07)
+
+Ported Model Name : vamp_master_v1sc
+Ported Model Hash : 72f003acc2e3ab78014b02da7e6a46d9
+Ported Model Date : 1752492487 (2025/07/14)

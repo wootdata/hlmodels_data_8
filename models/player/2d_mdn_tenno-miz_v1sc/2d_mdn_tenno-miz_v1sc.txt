@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_mdn_tenno-mizugi
+Source Model Hash : 8407de83815e5942f66596a052b140c1
+Source Model Date : 1554159742 (2019/04/01)
+
+Ported Model Name : 2d_mdn_tenno-miz_v1sc
+Ported Model Hash : d201c0b070004801399e3dcab37cba14
+Ported Model Date : 1752491315 (2025/07/14)

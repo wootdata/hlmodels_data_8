@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ranulf
+Source Model Hash : 33015e1932c306d77a38d817b6705999
+Source Model Date : 1268071630 (2010/03/08)
+
+Ported Model Name : ranulf_v1sc
+Ported Model Hash : c2cbe4b1562fb0e17d38463d5567d23f
+Ported Model Date : 1752492187 (2025/07/14)

@@ -1,0 +1,19 @@
+Valve
+Obsidian Conflict Team
+Nintendo
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lucario_hd
+Source Model Hash : 86e8db391545c93e01fb0fd5874720ba
+Source Model Date : 1469665572 (2016/07/27)
+
+Ported Model Name : lucario_hd_v1sc
+Ported Model Hash : a90bf6998374dfdb593391af0ef9bbd5
+Ported Model Date : 1752491971 (2025/07/14)

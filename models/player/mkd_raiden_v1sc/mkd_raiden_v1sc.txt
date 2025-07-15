@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mkd_raiden
+Source Model Hash : b518aa9f5674ffc9f5e91c2ad271336f
+Source Model Date : 1740006974 (2025/02/19)
+
+Ported Model Name : mkd_raiden_v1sc
+Ported Model Hash : c5663e9ec1eb8358acd65ddb1b02903a
+Ported Model Date : 1752492032 (2025/07/14)

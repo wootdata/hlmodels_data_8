@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : alphawolf
+Source Model Hash : 9c77f9fcb6470d8e35bcdde1920cc0f4
+Source Model Date : 1262602984 (2010/01/04)
+
+Ported Model Name : alphawolf_v1sc
+Ported Model Hash : 0cfded507de6d2884e9133d4889301bf
+Ported Model Date : 1752491354 (2025/07/14)

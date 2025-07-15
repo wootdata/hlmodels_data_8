@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mgs2_box
+Source Model Hash : d930fc557e74479b519a6437dff278bd
+Source Model Date : 1703777106 (2023/12/28)
+
+Ported Model Name : mgs2_box_v1sc
+Ported Model Hash : bac23cf5cae8da525b7fbee58b85c63a
+Ported Model Date : 1752492008 (2025/07/14)

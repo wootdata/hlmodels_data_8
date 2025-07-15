@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dv_femhelmet
+Source Model Hash : c071c91b9bb62eaa791efa3fd2c79d79
+Source Model Date : 1709095180 (2024/02/27)
+
+Ported Model Name : dv_femhelmet_v1sc
+Ported Model Hash : 3015a0eae1c98f1a1119f9cad67a85aa
+Ported Model Date : 1752491626 (2025/07/14)

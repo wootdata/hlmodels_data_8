@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mr_zombo2_v2
+Source Model Hash : e7116539d529004b698a1e09e01cf69c
+Source Model Date : 1429711576 (2015/04/22)
+
+Ported Model Name : mr_zombo2_v2sc
+Ported Model Hash : be39310dc3b9e4e4a4e48fdcae01ec69
+Ported Model Date : 1752492047 (2025/07/14)

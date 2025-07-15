@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lt_kanna_vo
+Source Model Hash : f89e7f18b4518b476a308656c0c2256a
+Source Model Date : 1703610284 (2023/12/26)
+
+Ported Model Name : lt_kanna_vo_v1sc
+Ported Model Hash : eb2dfd8b1be2bd20b99b9dcd1fbd39de
+Ported Model Date : 1752491969 (2025/07/14)

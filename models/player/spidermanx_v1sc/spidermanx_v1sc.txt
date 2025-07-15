@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spidermanx
+Source Model Hash : bcd415409fd81e30b05768b5be4d104f
+Source Model Date : 1269959629 (2010/03/30)
+
+Ported Model Name : spidermanx_v1sc
+Ported Model Hash : 10ae4678643851857cbdf0e5c2cee395
+Ported Model Date : 1752492309 (2025/07/14)

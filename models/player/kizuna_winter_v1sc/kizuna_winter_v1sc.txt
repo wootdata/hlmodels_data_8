@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kizuna_winter
+Source Model Hash : da7f9d10c6765c17b4789ff42d0b4270
+Source Model Date : 1636021349 (2021/11/04)
+
+Ported Model Name : kizuna_winter_v1sc
+Ported Model Hash : adcb4146c9d84ed56e4e17e2165bcd25
+Ported Model Date : 1752491892 (2025/07/14)

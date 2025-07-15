@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : q2yellow_v2
+Source Model Hash : f528ca4ebcdda3c11d971c7a87f2e4eb
+Source Model Date : 1583377713 (2020/03/04)
+
+Ported Model Name : q2yellow_v2sc
+Ported Model Hash : 97c5c9035ef917e846cc4327df31642b
+Ported Model Date : 1752492176 (2025/07/14)

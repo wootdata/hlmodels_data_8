@@ -1,0 +1,19 @@
+Model: QueenofSwords
+Author: [W2H]PC Punisher
+Released: 05/24/01
+Size: 176 kb
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : queenofswords_v2
+Source Model Hash : 9a8cc04673d704061d0f3861d622d2d0
+Source Model Date : 1583710903 (2020/03/08)
+
+Ported Model Name : queenofswords_v2sc
+Ported Model Hash : 4a652db05f4a65a0306cbda3c21ad245
+Ported Model Date : 1752492180 (2025/07/14)

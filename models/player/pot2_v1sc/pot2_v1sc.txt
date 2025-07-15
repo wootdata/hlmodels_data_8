@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pot2
+Source Model Hash : fd872dfe1e3a411df4f183e2c13751a4
+Source Model Date : 1590988504 (2020/05/31)
+
+Ported Model Name : pot2_v1sc
+Ported Model Hash : ad97c8e2a2fc2a7adb825cfb99e9f0fa
+Ported Model Date : 1752492163 (2025/07/14)

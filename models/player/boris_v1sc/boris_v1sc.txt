@@ -1,0 +1,32 @@
+Boris Grishenko
+Level 3
+Systems Programmer
+Sevennaya Facility
+
+Model:
+Ambient.Impact
+Gearbox
+Toadie
+
+Skin:
+Toadie
+Gearbox
+Ambient.Impact
+
+Compile: 
+Toadie
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : boris
+Source Model Hash : 8be0cbeeea82bea8faf3a340a72dcbb0
+Source Model Date : 1579695809 (2020/01/22)
+
+Ported Model Name : boris_v1sc
+Ported Model Hash : 7b4ed5fbb8f47f504cf7d85c082e200d
+Ported Model Date : 1752491444 (2025/07/14)

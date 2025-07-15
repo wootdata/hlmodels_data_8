@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : freeman2
+Source Model Hash : c208f4e867f2f4a15ee3fed8a27f9bcb
+Source Model Date : 1590729879 (2020/05/28)
+
+Ported Model Name : freeman2_v1sc
+Ported Model Hash : 3f36fbe5bc438b72859abeb62c133fdb
+Ported Model Date : 1752491661 (2025/07/14)

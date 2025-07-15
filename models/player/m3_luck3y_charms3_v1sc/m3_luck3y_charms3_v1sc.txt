@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : m3_luck3y_charms_sog
+Source Model Hash : 0038c606758d6ec54a6dc6b9a5c1e099
+Source Model Date : 1247362022 (2009/07/11)
+
+Ported Model Name : m3_luck3y_charms3_v1sc
+Ported Model Hash : cf5466b4028525dd6bb8d6579120e175
+Ported Model Date : 1752491976 (2025/07/14)

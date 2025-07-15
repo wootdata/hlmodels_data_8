@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : closers_mirai
+Source Model Hash : 9fbe176418125599521b9712da488cb0
+Source Model Date : 1642945549 (2022/01/23)
+
+Ported Model Name : closers_mirai_v1sc
+Ported Model Hash : e747c312de6abb9d3d6bc620faddc870
+Ported Model Date : 1752491482 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tower_enemy
+Source Model Hash : db19ed0b6b8809014520722717b90941
+Source Model Date : 1484899288 (2017/01/20)
+
+Ported Model Name : tower_enemy_v1sc
+Ported Model Hash : a8457d5e6c7d20f8e916063e05a229ad
+Ported Model Date : 1752492453 (2025/07/14)

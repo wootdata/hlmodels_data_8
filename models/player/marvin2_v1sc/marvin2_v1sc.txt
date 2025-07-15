@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : marvin2
+Source Model Hash : 0487c74304e50de9509b6a51f44bb466
+Source Model Date : 1590886015 (2020/05/30)
+
+Ported Model Name : marvin2_v1sc
+Ported Model Hash : eaabc41f313839f1b260e1159a932277
+Ported Model Date : 1752491989 (2025/07/14)

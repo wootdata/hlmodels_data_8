@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bearman
+Source Model Hash : 876c2db455fae16a9d1fc7e5e5d60044
+Source Model Date : 1491737851 (2017/04/09)
+
+Ported Model Name : bearman_v1sc
+Ported Model Hash : df10c19c551c53abe768a1784b801855
+Ported Model Date : 1752491423 (2025/07/14)

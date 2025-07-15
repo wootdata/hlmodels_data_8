@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zombie_girl6
+Source Model Hash : 334933fa1517b761bf0c6121252be902
+Source Model Date : 1445809430 (2015/10/25)
+
+Ported Model Name : zombie_girl6_v1sc
+Ported Model Hash : a6108b3ab786e494f0f666f29daf5692
+Ported Model Date : 1752492533 (2025/07/14)

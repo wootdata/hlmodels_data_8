@@ -1,0 +1,21 @@
+slicKiller: By [Killer]007 (killerhl@hotmail.com)
+
+
+This is a skin of the silencer model..... It has a cool looking, blue, chrome effect to it.....  Hope you like it 
+
+For more skins by me go to my site http://killerhl.cjb.net
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : slickiller
+Source Model Hash : 95ec1c0632d335d98108761d920d114b
+Source Model Date : 1591299793 (2020/06/04)
+
+Ported Model Name : slickiller_v1sc
+Ported Model Hash : 09586b847ef7cdf41edfa297e7321427
+Ported Model Date : 1752492281 (2025/07/14)

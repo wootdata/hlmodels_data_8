@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aaron
+Source Model Hash : 8ac4518a9c10a79deaf8a17021d3c675
+Source Model Date : 1430123281 (2015/04/27)
+
+Ported Model Name : aaron_v1sc
+Ported Model Hash : 4d53a98506f94c7226645078b6441f6e
+Ported Model Date : 1752491328 (2025/07/14)

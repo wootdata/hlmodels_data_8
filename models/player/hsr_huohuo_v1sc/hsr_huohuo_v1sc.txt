@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hsr_huohuo
+Source Model Hash : 1e63ca87b4f9608fe234c93295c8e1c8
+Source Model Date : 1700829152 (2023/11/24)
+
+Ported Model Name : hsr_huohuo_v1sc
+Ported Model Hash : 4a9afc768804541a5aab33f394c52f9d
+Ported Model Date : 1752491831 (2025/07/14)
