@@ -238,7 +238,7 @@
 			"type": 8
 		}
 	],
-	"date": 1758223612,
+	"date": 1758225733,
 	"events": [
 		{
 			"event": 5004,
@@ -891,8 +891,8 @@
 	"metahook_ragdoll": false,
 	"modid": 0,
 	"name": "Miko2.mdl",
-	"preview": false,
-	"readme": false,
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

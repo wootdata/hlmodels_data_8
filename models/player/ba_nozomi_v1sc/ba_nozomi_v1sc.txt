@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ba_nozomi
+Source Model Hash : 23746d715742441e5940192a5a79744d
+Source Model Date : 1746195326 (2025/05/02)
+
+Ported Model Name : ba_nozomi_v1sc
+Ported Model Hash : 6736b041583d4cb9bc9c411a58d82adb
+Ported Model Date : 1758225726 (2025/09/18)
