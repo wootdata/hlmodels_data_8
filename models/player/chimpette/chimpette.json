@@ -1,0 +1,704 @@
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "chimp-reference",
+					"polys": 1160,
+					"verts": 584
+				}, 
+				{
+					"name": "chimp-bandana",
+					"polys": 1260,
+					"verts": 636
+				}, 
+				{
+					"name": "chimp-bandana-glasses",
+					"polys": 1340,
+					"verts": 682
+				}, 
+				{
+					"name": "chimp-bandana-glasses-crown",
+					"polys": 1388,
+					"verts": 718
+				}, 
+				{
+					"name": "chimp-glasses",
+					"polys": 1240,
+					"verts": 630
+				}, 
+				{
+					"name": "chimp-glasses-crown",
+					"polys": 1288,
+					"verts": 666
+				}
+			],
+			"name": "body"
+		}
+	],
+	"colorable": false,
+	"controllers": [],
+	"date": 1644296870,
+	"events": [
+		{
+			"event": 2001,
+			"frame": 9,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 13,
+			"options": "",
+			"sequence": 19,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 15,
+			"options": "",
+			"sequence": 20,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 8,
+			"options": "",
+			"sequence": 21,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 19,
+			"options": "",
+			"sequence": 22,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 16,
+			"options": "",
+			"sequence": 23,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 19,
+			"options": "",
+			"sequence": 24,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "fae5edfc4341202b1c78dc2780367c2e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
+	"modid": 0,
+	"name": "D:\\chimp01\\chimpanzee.mdl",
+	"preview": true,
+	"readme": false,
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 14.000000,
+			"frames": 20,
+			"name": "idle"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 20,
+			"name": "idle"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 20,
+			"name": "idle"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 30,
+			"name": "run2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "walk2handed"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 20,
+			"name": "idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "crawl"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 20,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 34,
+			"name": "jump"
+		}, 
+		{
+			"fps": 28.000000,
+			"frames": 20,
+			"name": "swim"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 20,
+			"name": "treadwater"
+		}, 
+		{
+			"fps": 50.000000,
+			"frames": 30,
+			"name": "run"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 30,
+			"name": "walk"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 30,
+			"name": "fly"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 2,
+			"name": "aim_2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "shoot_2"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 2,
+			"name": "aim_1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "shoot_1"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 20,
+			"name": "die_simple"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 20,
+			"name": "die_backwards1"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 20,
+			"name": "die_backwards"
+		}, 
+		{
+			"fps": 36.000000,
+			"frames": 20,
+			"name": "die_forwards"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 20,
+			"name": "headshot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 20,
+			"name": "die_spin"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 20,
+			"name": "gutshot"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "ref_aim_banana"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "crouch_aim_banana"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 15,
+			"name": "ref_shoot_banana"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 15,
+			"name": "crouch_shoot_banana"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "ref_aim_sabers"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "crouch_aim_sabers"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 13,
+			"name": "ref_shoot_sabers"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 13,
+			"name": "crouch_shoot_sabers"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "ref_aim_blowpipe"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "crouch_aim_blowpipe"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 30,
+			"name": "ref_shoot_blowpipe"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 30,
+			"name": "crouch_shoot_blowpipe"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "ref_aim_chainsaw"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "crouch_aim_chainsaw"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 30,
+			"name": "ref_shoot_chainsaw"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 30,
+			"name": "crouch_shoot_chainsaw"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "ref_aim_cocolauncher"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "crouch_aim_cocolauncher"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 10,
+			"name": "ref_shoot_cocolauncher"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 10,
+			"name": "crouch_shoot_cocolauncher"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "ref_aim_machinegun"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "crouch_aim_machinegun"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 10,
+			"name": "ref_shoot_machinegun"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 10,
+			"name": "crouch_shoot_machinegun"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "ref_aim_crossbow"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "crouch_aim_crossbow"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 10,
+			"name": "ref_shoot_crossbow"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 10,
+			"name": "crouch_shoot_crossbow"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "ref_aim_shotgun"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "crouch_aim_shotgun"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 10,
+			"name": "ref_shoot_shotgun"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 10,
+			"name": "crouch_shoot_shotgun"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "ref_aim_plauncher"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "crouch_aim_plauncher"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 10,
+			"name": "ref_shoot_plauncher"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 10,
+			"name": "crouch_shoot_plauncher"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "ref_aim_gatling"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "crouch_aim_gatling"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 9,
+			"name": "ref_shoot_gatling"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 9,
+			"name": "crouch_shoot_gatling"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "ref_aim_cat"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 2,
+			"name": "crouch_aim_cat"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 10,
+			"name": "ref_shoot_cat"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 10,
+			"name": "crouch_shoot_cat"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "deadback"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "deadsitting"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "deadstomach"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 2,
+			"name": "deadtable"
+		}
+	],
+	"size": 908212,
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 L Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Calf",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 L Toe0",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 R Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Calf",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 14
+		}, 
+		{
+			"name": "Dummy21",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Clavicle",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L UpperArm",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Forearm",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Clavicle",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 R UpperArm",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Forearm",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 29
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 29
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 32
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 33
+		}, 
+		{
+			"name": "joint52",
+			"parent": 16
+		}, 
+		{
+			"name": "joint53",
+			"parent": 12
+		}
+	],
+	"skins": 3,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 224,
+			"name": "head.bmp",
+			"width": 224
+		}, 
+		{
+			"flags": 0,
+			"height": 312,
+			"name": "arm.bmp",
+			"width": 252
+		}, 
+		{
+			"flags": 0,
+			"height": 160,
+			"name": "hand.bmp",
+			"width": 160
+		}, 
+		{
+			"flags": 0,
+			"height": 450,
+			"name": "front.bmp",
+			"width": 204
+		}, 
+		{
+			"flags": 0,
+			"height": 186,
+			"name": "leg.bmp",
+			"width": 276
+		}, 
+		{
+			"flags": 0,
+			"height": 160,
+			"name": "food.bmp",
+			"width": 160
+		}, 
+		{
+			"flags": 0,
+			"height": 450,
+			"name": "back.bmp",
+			"width": 204
+		}, 
+		{
+			"flags": 0,
+			"height": 22,
+			"name": "bandana_red.bmp",
+			"width": 72
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "glassCHROME.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "goldCHROME.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 312,
+			"name": "arm_red.bmp",
+			"width": 252
+		}, 
+		{
+			"flags": 0,
+			"height": 22,
+			"name": "bandana_green.bmp",
+			"width": 72
+		}, 
+		{
+			"flags": 0,
+			"height": 312,
+			"name": "arm_green.bmp",
+			"width": 252
+		}
+	],
+	"version": 10
+}
