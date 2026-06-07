@@ -1,0 +1,38 @@
+================
+HLalien Document
+================
+
+Info:
+Model and textures created from scratch by me
+276 vertices, 405 normals
+548 tris, 113 strips
+Valve Animations
+121540 bytes of textures
+
+Comments:
+This model was created purely in educational purpose. 
+This is my first game model ever, I am quite pleased
+with the result. 
+This model was created by the help of the excellent
+tutorials mainly on Cold Fusion, but also on 
+Wavelength. You deserve all the credit you can get.
+
+
+Author: Mattias "Hydroman" Tullgren
+	Helsingborg Sweden
+	mt99@mail.bip.net
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hlalien
+Source Model Hash : 80baf3dd357b6f01e3ce4e35782c21d3
+Source Model Date : 1772855090 (2026/03/06)
+
+Ported Model Name : hlalien_v1sc
+Ported Model Hash : adeae75fad1d3e4fb38efcbf4ffc075c
+Ported Model Date : 1780823026 (2026/06/07)
